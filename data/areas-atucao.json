@@ -1,0 +1,93 @@
+[
+    {
+      "icon": "happy-outline",
+      "title": "Ortodontia",
+      "description": "Dúvidas, informações e consultas.",
+      "iconBackgroundColor": "#c95238",
+      "details": "A Ortodontia é a especialidade responsável por diagnosticar, prevenir e tratar problemas relacionados ao alinhamento dos dentes e das mandíbulas. Utiliza técnicas e aparelhos para corrigir irregularidades dentárias, melhorando não só a estética do sorriso, mas também a função mastigatória.",
+      "indications": "Indicado para pacientes de todas as idades que apresentam dentes tortos, espaços entre os dentes, problemas de mordida, como sobremordida ou mordida cruzada, e qualquer outra anomalia que comprometa a estética ou a função da arcada dentária.",
+      "treatment": "O tratamento ortodôntico envolve o uso de aparelhos, que podem ser fixos ou removíveis, para movimentar os dentes de forma gradual até a posição desejada. O tempo de tratamento varia conforme a complexidade do caso, geralmente durando entre 1 a 3 anos.",
+      "diagnosis": "O diagnóstico ortodôntico é realizado através de uma consulta inicial onde são avaliados o alinhamento dos dentes, a mordida e a saúde periodontal. Radiografias e modelos da arcada dentária podem ser utilizados para um planejamento mais preciso.",
+      "recommendations": "Visitas regulares ao ortodontista são essenciais para monitorar o progresso do tratamento. Além disso, é fundamental manter uma boa higiene oral, escovando os dentes após as refeições e utilizando fio dental.",
+      "procedures": "Os procedimentos incluem a instalação de aparelhos ortodônticos, ajustes mensais para monitorar o movimento dentário e a remoção do aparelho ao final do tratamento. Em casos específicos, podem ser necessárias intervenções cirúrgicas.",
+      "relatedAreas": ["Odontopediatria", "Cirurgia Ortognática", "Periodontia"]
+    },
+    {
+      "icon": "hammer-outline",
+      "title": "Endodontia",
+      "description": "Dúvidas, informações e consultas.",
+      "iconBackgroundColor": "#43bb59",
+      "details": "A Endodontia se especializa no tratamento da polpa dentária e nos problemas relacionados ao canal radicular. Esta área é vital para salvar dentes que estão comprometidos por infecções, traumas ou cáries profundas, evitando a extração do dente.",
+      "indications": "Indicado para pacientes que apresentam dor intensa, sensibilidade ao calor e frio, inchaço ou qualquer sinal de infecção dental. O tratamento é crucial quando há comprometimento da polpa, que pode levar à perda do dente se não tratado.",
+      "treatment": "O tratamento endodôntico, popularmente conhecido como tratamento de canal, envolve a remoção da polpa danificada ou infectada, limpeza e desinfecção do canal radicular, e, em seguida, o preenchimento do espaço com um material adequado para evitar novas infecções.",
+      "diagnosis": "O diagnóstico é realizado após uma consulta detalhada, onde o dentista avalia os sintomas do paciente e realiza exames clínicos. Radiografias são essenciais para visualizar a condição da polpa e a extensão da infecção.",
+      "recommendations": "Manter uma boa higiene dental é fundamental para evitar infecções. O paciente deve seguir as orientações do dentista e retornar para consultas de acompanhamento para garantir que o tratamento foi bem-sucedido.",
+      "procedures": "Os procedimentos incluem a anestesia local, a abertura do dente para acessar o canal, a limpeza da polpa e dos canais, o preenchimento com material específico e, em alguns casos, a colocação de uma restauração ou coroa.",
+      "relatedAreas": ["Periodontia", "Prótese Dentária"]
+    },
+    {
+      "icon": "sad-outline",
+      "title": "Periodontia",
+      "description": "Dúvidas, informações e consultas.",
+      "iconBackgroundColor": "#A2A2A2",
+      "details": "A Periodontia é a especialidade que cuida da saúde das gengivas e dos tecidos de suporte dos dentes. É fundamental para a prevenção e tratamento de doenças periodontais, que podem levar à perda dentária se não tratadas adequadamente.",
+      "indications": "Indicado para pacientes que apresentam sinais de gengivite, como sangramento e inflamação das gengivas, bem como para aqueles diagnosticados com periodontite, que é uma forma mais avançada da doença periodontal.",
+      "treatment": "O tratamento pode variar de limpezas profissionais e raspagens subgengivais a intervenções cirúrgicas em casos mais graves, visando restaurar a saúde periodontal e a estabilidade dentária.",
+      "diagnosis": "O diagnóstico periodontal é feito através de uma avaliação clínica que inclui a medição das bolsas periodontais, análise da mobilidade dental e radiografias para verificar a perda óssea ao redor dos dentes.",
+      "recommendations": "A manutenção da higiene oral é crucial para prevenir doenças gengivais. Recomenda-se visitas regulares ao dentista para limpezas e avaliações, além de instruções sobre cuidados em casa.",
+      "procedures": "Os procedimentos incluem limpezas profissionais, raspagem e alisamento radicular, cirurgias para correção de problemas periodontais, e em alguns casos, o uso de antibióticos para controlar infecções.",
+      "relatedAreas": ["Endodontia", "Implantodontia"]
+    },
+    {
+      "icon": "person-outline",
+      "title": "Odontopediatria",
+      "description": "Dúvidas, informações e consultas.",
+      "iconBackgroundColor": "#3182bc",
+      "details": "A Odontopediatria é a área da odontologia que se dedica ao atendimento odontológico de crianças e adolescentes. Ela envolve não apenas o tratamento, mas também a educação sobre saúde bucal desde os primeiros dentes.",
+      "indications": "Indicado para todas as crianças, desde o surgimento do primeiro dente, visando a prevenção de cáries e problemas dentários. O acompanhamento regular é essencial para o desenvolvimento saudável da dentição.",
+      "treatment": "O tratamento inclui a realização de exames regulares, aplicação de flúor, selantes dentais e restaurações quando necessário. A abordagem é sempre adaptada à idade e necessidades da criança.",
+      "diagnosis": "O diagnóstico é realizado durante as consultas regulares, onde o dentista avalia a saúde bucal da criança, observa o desenvolvimento dos dentes e identifica possíveis problemas precocemente.",
+      "recommendations": "Os pais devem incentivar hábitos de higiene bucal desde cedo, como escovação regular e visitas ao dentista a cada seis meses. A educação sobre a alimentação saudável também é crucial.",
+      "procedures": "Os procedimentos incluem exames clínicos, aplicação de flúor, selantes, restaurações e orientações sobre cuidados diários com a saúde bucal da criança.",
+      "relatedAreas": ["Ortodontia", "Endodontia"]
+    },
+    {
+      "icon": "medkit-outline",
+      "title": "Prótese Dentária",
+      "description": "Dúvidas, informações e consultas.",
+      "iconBackgroundColor": "#dcb533",
+      "details": "A Prótese Dentária é a especialidade responsável pela reabilitação oral de pacientes que perderam dentes. O objetivo é restaurar a função mastigatória e a estética do sorriso, utilizando próteses fixas ou removíveis.",
+      "indications": "Indicado para pacientes que apresentam dentes ausentes, seja por extrações, traumas ou doenças. A reabilitação é essencial para melhorar a qualidade de vida e a autoestima do paciente.",
+      "treatment": "O tratamento envolve a avaliação das necessidades do paciente, a escolha do tipo de prótese (fixa ou removível) e a confecção da prótese em laboratório, garantindo a melhor adaptação e estética.",
+      "diagnosis": "O diagnóstico é realizado através de uma consulta que inclui a avaliação da boca do paciente, radiografias e a análise da saúde geral bucal, permitindo determinar a melhor abordagem para a reabilitação.",
+      "recommendations": "Os pacientes devem manter a higiene das próteses e retornar regularmente ao dentista para ajustes e avaliações. A alimentação deve ser adaptada, especialmente no início do uso das próteses.",
+      "procedures": "Os procedimentos incluem a avaliação inicial, a moldagem da arcada dentária, a confecção da prótese e o acompanhamento para ajustes e adaptações.",
+      "relatedAreas": ["Endodontia", "Periodontia"]
+    },
+    {
+      "icon": "skull-outline",
+      "title": "Cirurgia Oral e Maxilofacial",
+      "description": "Dúvidas, informações e consultas.",
+      "iconBackgroundColor": "#b9d486",
+      "details": "A Cirurgia Oral e Maxilofacial é uma especialidade que lida com o diagnóstico e tratamento cirúrgico de doenças e lesões que afetam a boca, a mandíbula e a face. É uma área que combina conhecimentos de odontologia e medicina.",
+      "indications": "Indicado para pacientes que necessitam de extrações dentárias complicadas, correções faciais, tratamento de traumas, e avaliação de lesões que podem ser benignas ou malignas.",
+      "treatment": "O tratamento pode incluir desde extrações simples até cirurgias complexas para reconstrução facial. O objetivo é restaurar a função e a estética, aliviando a dor e tratando infecções.",
+      "diagnosis": "O diagnóstico é realizado após uma consulta detalhada, onde são analisados os sintomas e a história clínica do paciente. Exames de imagem, como radiografias e tomografias, são frequentemente necessários.",
+      "recommendations": "O acompanhamento pós-operatório é crucial para garantir a recuperação adequada. O paciente deve seguir as orientações do cirurgião quanto a cuidados e alimentação durante o período de recuperação.",
+      "procedures": "Os procedimentos incluem consultas de avaliação, cirurgias para extrações, correções ortognáticas, e acompanhamento pós-operatório para monitorar a cicatrização.",
+      "relatedAreas": ["Ortodontia", "Periodontia"]
+    },
+    {
+      "icon": "walk-outline",
+      "title": "Odontologia Geriátrica",
+      "description": "Dúvidas, informações e consultas.",
+      "iconBackgroundColor": "#b42b51",
+      "details": "A Odontologia Geriátrica se dedica a atender as necessidades específicas de saúde bucal da população idosa, abordando os desafios que surgem com o envelhecimento, como a perda de dentes e doenças periodontais.",
+      "indications": "Indicado para pacientes idosos que apresentam condições bucais especiais, como xerostomia (boca seca), doenças periodontais, e a necessidade de próteses ou restaurações.",
+      "treatment": "O tratamento é individualizado, focando na saúde bucal global do idoso. Pode incluir limpezas, restaurações, próteses e orientações sobre cuidados específicos para manter a saúde bucal.",
+      "diagnosis": "O diagnóstico é realizado através de uma avaliação clínica abrangente, onde são considerados a saúde geral do paciente e as condições bucais. Exames complementares podem ser solicitados conforme necessário.",
+      "recommendations": "É fundamental que os idosos mantenham uma boa higiene bucal e retornem regularmente ao dentista. A educação sobre cuidados dentais adaptados à idade é essencial.",
+      "procedures": "Os procedimentos incluem exames clínicos, limpezas, restaurações, adaptação de próteses e orientações sobre cuidados diários com a saúde bucal.",
+      "relatedAreas": ["Periodontia", "Prótese Dentária"]
+    }
+  ]
