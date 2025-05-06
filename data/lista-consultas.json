@@ -1,0 +1,56 @@
+[
+  {
+      "idConsulta": "198311a6-da21-4b02-be74-e352c2fdcfd1",
+      "paciente": {
+          "idPaciente": "931c8247-6320-4623-aa19-5d120e59d110",
+          "nome": "Vitor",
+          "cpf": "47903064886",
+          "dataNascimento": "2002-11-05"
+      },
+      "dentista": {
+          "idDentista": "8215deb6-a6d5-4c84-9b5f-3e27bffaad4a",
+          "nome": "Dr. Vitor Santos",
+          "documento": "24603604019",
+          "especializacao": "Ortodontia"
+      },
+      "data": "2023-10-10T14:30:00.000+00:00",
+      "tipoTratamento": "Limpeza",
+      "diagnostico": null
+  },
+  {
+      "idConsulta": "ff9d1f92-630c-487f-84d5-b8e795e416a3",
+      "paciente": {
+          "idPaciente": "931c8247-6320-4623-aa19-5d120e59d110",
+          "nome": "Vitor",
+          "cpf": "47903064886",
+          "dataNascimento": "2002-11-05"
+      },
+      "dentista": {
+          "idDentista": "abc0139c-5422-484a-bb5c-a039612faf7a",
+          "nome": "Dr. Yasmim Cruz",
+          "documento": "45578997803",
+          "especializacao": "Facetas"
+      },
+      "data": "2023-10-10T14:30:00.000+00:00",
+      "tipoTratamento": "Limpeza",
+      "diagnostico": null
+  },
+  {
+      "idConsulta": "2ae41281-e4cd-4c57-8dfa-3b1f40fdf50d",
+      "paciente": {
+          "idPaciente": "931c8247-6320-4623-aa19-5d120e59d110",
+          "nome": "Vitor",
+          "cpf": "47903064886",
+          "dataNascimento": "2002-11-05"
+      },
+      "dentista": {
+          "idDentista": "b0c9e007-cb7e-49f0-b136-f42997ea177d",
+          "nome": "Dr. Jose Ribeiro",
+          "documento": "479030648776",
+          "especializacao": "Odontopediatria"
+      },
+      "data": "2023-10-10T14:30:00.000+00:00",
+      "tipoTratamento": "Limpeza",
+      "diagnostico": null
+  }
+]
