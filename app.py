@@ -8,7 +8,7 @@ CORS(app)
 
 
 def carregar_areas_atuacao():
-    caminho_json = os.path.join('data', 'areas-atuacao.json')
+    caminho_json = os.path.join('data', './data/areas-atuacao.json')
     try:
         with open(caminho_json, 'r', encoding='utf-8') as arquivo: 
             return json.load(arquivo)
@@ -17,7 +17,7 @@ def carregar_areas_atuacao():
         return []
     
 def carregar_consultas():
-    caminho_json = os.path.join('data', 'lista-consultas.json')
+    caminho_json = os.path.join('data', './data/lista-consultas.json')
     try:
         with open(caminho_json, 'r', encoding='utf-8') as arquivo: 
             return json.load(arquivo)
